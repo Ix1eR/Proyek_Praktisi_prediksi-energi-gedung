@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pandas>=2.2,<3
+numpy>=1.26,<3
+scikit-learn==1.6.1
+joblib
+streamlit==1.40.2
+requests
