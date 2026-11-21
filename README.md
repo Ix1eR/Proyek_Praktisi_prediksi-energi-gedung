@@ -1,6 +1,6 @@
 # Proyek Praktisi Energi Gedung · Tim 18
 
-**Kasus:** [2 Energi Gedung](https://github.com/nurhikam/mkb-ml-project/blob/main/kasus/02-energi-gedung/brief.md) · **Aplikasi:** [tautan aplikasi](https://proyekpraktisiprediksi-energi-gedung-66kdo84jnq5wr5g8gfioxw.streamlit.app/) · **Video:** [tautan video]
+**Kasus:** [2 Energi Gedung](https://github.com/nurhikam/mkb-ml-project/blob/main/kasus/02-energi-gedung/brief.md) · **Aplikasi:** [tautan aplikasi](https://proyekpraktisiprediksi-energi-gedung-66kdo84jnq5wr5g8gfioxw.streamlit.app/) · **Video:** [Tautan Video](https://youtu.be/JA7z6u8EDkE)
 
 | Anggota | NIM | Bagian yang dikerjakan |
 |---|---|---|
